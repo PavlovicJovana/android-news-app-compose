@@ -1,4 +1,4 @@
-package com.example.newsreader.ui.theme
+package com.example.newsreader.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
